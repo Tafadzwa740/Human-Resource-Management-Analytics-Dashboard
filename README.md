@@ -35,7 +35,7 @@ Other sources  like employee referrals, diversity programs and company webiste c
 
 # HR Analytic dashboard
 
- <img width="1780" height="812" alt="HR Analytic Dashboard" src="https://github.com/Tafadzwa740/Credit-Fraud-Insight-Report/blob/main/credit%20card%20dashboard%20report.png" />    
+ <img width="1780" height="812" alt="HR Analytic Dashboard" src="https://https://github.com/Tafadzwa740/Human-Resource-Management-Analytics-Dashboard/blob/main/HR%20Dashboard%20report.png" />    
 
 
 # Conclusion
