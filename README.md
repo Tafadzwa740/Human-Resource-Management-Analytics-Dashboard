@@ -35,8 +35,11 @@ Other sources  like employee referrals, diversity programs and company webiste c
 
 # HR Analytic dashboard
 
- <img width="1780" height="812" alt="HR Analytic Dashboard" src="https://github.com/Tafadzwa740/Human-Resource-Management-Analytics-Dashboard/blob/main/HR%20Dashboard%20report.png" />    
+ <img width="1780" height="812" alt="HR Analytic Dashboard" src="https://github.com/Tafadzwa740/Human-Resource-Management-Analytics-Dashboard/blob/main/HR%20Dashboard%20report.png" />  
 
+ # Detailed HR Management Analytics Dashboard
+ 
+<img width="1780" height="812" alt="HR Analytic Dashboard" src="https://github.com/Tafadzwa740/Human-Resource-Management-Analytics-Dashboard/blob/main/detailed%20HR%20Dashboard%20report.png " />  
 
 # Conclusion
 The HR Dashboard provides a 360 view of workforce dynamics by combining headcount, attrition, demographics and recruitment data. it helps HR leaders to :
